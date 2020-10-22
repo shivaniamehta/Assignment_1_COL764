@@ -25,3 +25,4 @@
 
 3. parseTags.py - used to identify the tagged terms in the document and merge the sequence of terms with same tags which belong to a single term
 4. all.3class.distsim.crf.ser.gz and stanford-ner.jar - used to recognize named entities in the query
+5. <b> Due to the upper bound on the size of zip file (i.e 20MB), I have not attached all.3class.distsim.crf.ser.gz. Kindly attach it to run vecsearch.py </b>
